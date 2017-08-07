@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="currect">Correct!</string>
+
+    <string name="question_oceans">No1</string>
+    <string name="question_mideast">No2</string>
+    <string name="question_africa">No3</string>
+    <string name="question_americas">No4</string>
+    <string name="question_asia">No5</string>
+
+</resources>
